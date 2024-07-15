@@ -14,13 +14,6 @@ This is an Airbnb/OYO clone built with Next.js, TypeScript, Tailwind CSS, MongoD
 
 You can check out a live demo of the Airbnb clone project [here](https://airbnb-clone-phi-green.vercel.app/).
 
-## Screenshots
-
-<kbd><img width="944" alt="vacationhub" src="https://github.com/sudeepmahato16/airbnb_clone/assets/122378993/f893e203-8a2d-4ff1-ae20-67e64187b770"></kbd>
-
-<kbd><img width="886" alt="login-modal" src="https://github.com/sudeepmahato16/airbnb_clone/assets/122378993/3d6675e0-6046-48dc-b55f-7ef318581ccd"></kbd>
-
-<kbd><img width="810" alt="listing" src="https://github.com/sudeepmahato16/airbnb_clone/assets/122378993/a0b05a50-cbc2-40db-8f62-6cc203a7c887"></kbd>
 
 ## Prerequisites
 
